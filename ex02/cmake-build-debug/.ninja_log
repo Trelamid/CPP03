@@ -1,0 +1,5 @@
+# ninja log v5
+0	319	6728365664577469	CMakeFiles/ex00.dir/main.cpp.obj	c0649052fdfa8e10
+18	322	6728365664627490	CMakeFiles/ex00.dir/ScavTrap.cpp.obj	cda776eb9488f9c0
+14	339	6728365664847525	CMakeFiles/ex00.dir/ClapTrap.cpp.obj	8115e0eea3f6de51
+339	500	6728365666407878	ex00.exe	6c08418c8302755a

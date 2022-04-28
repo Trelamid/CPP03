@@ -1,0 +1,12 @@
+# ninja log v5
+0	314	6728400881418854	CMakeFiles/ex00.dir/main.cpp.obj	c397ef8542919242
+15	326	6728400881528886	CMakeFiles/ex00.dir/ClapTrap.cpp.obj	dd0e6865be93d7c3
+23	335	6728400881648915	CMakeFiles/ex00.dir/ScavTrap.cpp.obj	3ca9d8c38ec993ef
+19	341	6728400881698941	CMakeFiles/ex00.dir/FragTrap.cpp.obj	c728fce00328a83f
+341	505	6728400883301981	ex00.exe	2533301d821daf4b
+26	362	6728436301733768	CMakeFiles/ex00.dir/ScavTrap.cpp.obj	3ca9d8c38ec993ef
+22	382	6728436302046283	CMakeFiles/ex00.dir/DiamondTrap.cpp.obj	8cdace8dde04d097
+18	385	6728436302046283	CMakeFiles/ex00.dir/main.cpp.obj	c397ef8542919242
+3	395	6728436302202536	CMakeFiles/ex00.dir/ClapTrap.cpp.obj	dd0e6865be93d7c3
+3	299	6728436625732501	CMakeFiles/ex00.dir/FragTrap.cpp.obj	c728fce00328a83f
+299	467	6728436627451363	ex00.exe	7ffffe56434dcbf1
